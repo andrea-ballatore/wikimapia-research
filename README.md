@@ -1,8 +1,8 @@
 Wikimapia research
 =============================================
-This repository contains datasets produced for the study described in:
+This repository contains datasets produced for the study described in <TODO>
 
-[Andrea Ballatore](http://sites.google.com/site/andreaballatore),
+[Andrea Ballatore](http://sites.google.com/site/andreaballatore)
 
 
 ## Abstract
@@ -11,9 +11,12 @@ TODO
 
 **Keywords:**
 
+Wikimapia, OpenStreetMap, volunteered geographic information, user-generated content, data quality, Internet geography, crowd-mapping
+
+
 ## Datasets
 
-**google_localness_maps.pdf:** High-resolution maps.
+`google_trends`: datasets involving Google Trends data.
 
 ## License
 
