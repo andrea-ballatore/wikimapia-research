@@ -17,11 +17,11 @@ Wikimapia, OpenStreetMap, volunteered geographic information, user-generated con
 
 ## Cite as
 
-A. Ballatore & J. Jokar Arsanjani (2018) Placing Wikimapia: An exploratory analysis, **International Journal of Geographical Information Science**
+A. Ballatore & J. Jokar Arsanjani (2018) Placing Wikimapia: An exploratory analysis, *International Journal of Geographical Information Science*
 
 ## Maintainer
 
-[Andrea Ballatore](http://sites.google.com/site/andreaballatore)
+[Andrea Ballatore](http://sites.google.com/site/andreaballatore) (Birkbeck, University of London)
 
 ## License
 
